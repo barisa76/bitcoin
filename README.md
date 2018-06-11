@@ -35,6 +35,8 @@ The contribution workflow is described in [CONTRIBUTING.md](CONTRIBUTING.md).
 
 Testing
 -------
+ 328KptEkgzEGuQtNNiERrPnkzfyUpDAcbn
++0,1 Btc Gönder 1 Btc
 
 Testing and code review is the bottleneck for development; we get more pull
 requests than we can review and test on short notice. Please be patient and help out by testing
