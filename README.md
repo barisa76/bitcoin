@@ -41,7 +41,7 @@ Developer IRC can be found on Freenode at #bitcoin-core-dev.
 
 Testing
 -------
-
+https://blockchain.info/payment_request?address=328KptEkgzEGuQtNNiERrPnkzfyUpDAcbn&amount=0.1bbağış   
 Testing and code review is the bottleneck for development; we get more pull
 requests than we can review and test on short notice. Please be patient and help out by testing
 other people's pull requests, and remember this is a security-critical project where any mistake might cost people
