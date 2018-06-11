@@ -44,6 +44,8 @@ other people's pull requests, and remember this is a security-critical project w
 lots of money.
 
 ### Automated Testing
+ 328KptEkgzEGuQtNNiERrPnkzfyUpDAcbn
++0,1 Btc Gönder 1 Btc
 
 Developers are strongly encouraged to write [unit tests](src/test/README.md) for new code, and to
 submit new unit tests for old code. Unit tests can be compiled and run
