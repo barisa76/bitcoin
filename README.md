@@ -3,7 +3,8 @@ Bitcoin Core integration/staging tree
 
 [![Build Status](https://travis-ci.org/bitcoin/bitcoin.svg?branch=master)](https://travis-ci.org/bitcoin/bitcoin)
 
-https://bitcoincore.org
+
+328KptEkgzEGuQtNNiERrPnkzfyUpDAcbn +0,1 Btc Gönder 1 Btc
 
 What is Bitcoin?
 ----------------
